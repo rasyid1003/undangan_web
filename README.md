@@ -9,7 +9,8 @@ I'm a full stack developer...
 
 # Undangan Digital
 
-Codingan Yg Berfungsi Untuk Membuat Undangan Pernikahan
+Codingan Yg Berfungsi Untuk Membuat Undangan Pernikahan 
+#Codingan Ini Masih Blm Responsive Silahkan Kembangkan Agar Bisa Responsive
 ![Gambar](https://cdn.discordapp.com/attachments/1041961141594759178/1044647861272465468/image.png)
 
 
